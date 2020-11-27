@@ -5,4 +5,3 @@ main: "example.ExampleJavaMod"
 description: "A jar mod."
 version: 1.0
 minGameVersion: 105
-
